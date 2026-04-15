@@ -26,7 +26,7 @@ Flask homepage mockup for a Texas-rooted private chef, events, and consulting br
 ```
 
 ## Install Dependencies
-
+only have to do this once
 ```bash
 python -m venv venv
 source venv\Scripts\activate
